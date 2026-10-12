@@ -200,7 +200,7 @@ The `_id`, timestamps, and click count are illustrative; actual values depend on
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/mayank30092/url-shortener.git
 cd url-shortener
 ```
 
